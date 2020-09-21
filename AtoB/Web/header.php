@@ -1,4 +1,5 @@
 <?php
+    // Sørger for at vores session altid bliver bibeholdt
     session_start();
 ?>
 <!DOCTYPE html>
